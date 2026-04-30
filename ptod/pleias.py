@@ -3,6 +3,8 @@ import json
 from .utils import write_json, collect_files, read_txt
 from vllm import LLM, SamplingParams
 
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+
 PLEIAS_SYSTEM_PROMPT = "You annotate French theater programmes from the Festival d'Avignon against the Linked Art performing-arts ontology. Extract structured JSON-LD entities from programme markdown."
 
 PLEIAS_ENTITY_INSTRUCTIONS = {
@@ -24,6 +26,7 @@ class PleiasModel:
         self.system_prompt = PLEIAS_SYSTEM_PROMPT
         self.entity_instructions = PLEIAS_ENTITY_INSTRUCTIONS
         self.max_tokens = kwargs.get("max_tokens", 2048)
+        self.device = kwargs.get("device", "cpu")
 
         self._load_model()
 
@@ -33,7 +36,8 @@ class PleiasModel:
         self.llm = LLM(
             model = self.model_id, 
             dtype = "bfloat16", 
-            max_model_len = 4096
+            max_model_len = 4096,
+            device = self.device
         )
         self.tokenizer = self.llm.get_tokenizer()
         if self.verbose:
