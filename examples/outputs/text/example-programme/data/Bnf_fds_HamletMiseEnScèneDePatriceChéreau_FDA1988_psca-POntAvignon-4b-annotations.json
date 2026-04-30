@@ -1,0 +1,387 @@
+{
+    "A": {
+        "reasoning": "**Work identification:** Programme shows \"HAMLET / DE SHAKESPEARE\" → clear distinction between Shakespeare's original text vs. this production concept ● The translation credit (\"Yves Bonnefoy\") indicates derivative work status ◐\n\n**Title derivation:** \"HAMLET\" appears prominently after \"# HAMLET\" header → primary identifier ● No subtitle or alternative titles visible in document ○\n\n**Creator analysis:** Two potential creators emerge:\n- Original playwright: William Shakespeare (implicit knowledge)\n- Production translator/adaptor: Yves Bonnefoy explicitly credited with \"Traduction:\" ● This suggests he created an adapted version of Hamlet that serves as basis for staging ●\n\n**Ontological boundary decision:** Is this extracting Shakespeare's play OR Chéreau's specific conception? Document structure points to latter being the focus — \"NOUVELLE PRODUCTION\" + detailed director credits below indicate new creative interpretation layer built upon existing textual foundation ● Translation function makes Bonnefoy integral part of production genesis rather than just performance execution ●\n\n**Classification logic:** PropositionalObject appropriate because represents abstract creative concept (how to stage translated Hamlet), not physical object or event instance ● AAT classification needs placeholder since actual URI unavailable at time of extraction ⚠\n\n**Attribution sourcing:** Programme itself provides evidence chain through Creation activity linking back to source material via influenced_by relationship ● Primary source documentation strengthens scholarly credibility ●\n\n∴ **Core insight:** While Shakespeare wrote foundational text, this Work extracts Chéreau's interpretive framework shaped by Bonnefoy's translation choices → distinct intellectual creation requiring separate ontological treatment beyond mere performance realization.",
+        "output": {
+            "@context": "https://linked.art/ns/v1/linked-art.json",
+            "id": "https://data.stage.org/works/W-HAML-PATR-1988-a8c4",
+            "type": "PropositionalObject",
+            "_label": "The show of HAMLET as conceived by Patrice Chéreau",
+            "classified_as": [
+                {
+                    "id": "https://vocab.getty.edu/aat/300387357",
+                    "type": "Type",
+                    "_label": "works (general, creative)"
+                }
+            ],
+            "identified_by": [
+                {
+                    "type": "Name",
+                    "classified_as": [
+                        {
+                            "id": "http://vocab.getty.edu/aat/300404670",
+                            "type": "Type",
+                            "_label": "Title"
+                        }
+                    ],
+                    "content": "HAMLET"
+                }
+            ],
+            "created_by": [
+                {
+                    "type": "Creation",
+                    "part": [
+                        {
+                            "type": "Production",
+                            "technique": [
+                                {
+                                    "id": "http://vocab.getty.edu/page/aat/300404387",
+                                    "type": "Type",
+                                    "_label": "Creating"
+                                }
+                            ],
+                            "carried_out_by": [
+                                {
+                                    "type": "Person",
+                                    "_label": "Patrice Chéreau"
+                                }
+                            ]
+                        }
+                    ],
+                    "influenced_by": [
+                        {
+                            "id": "https://data.stage.org/text/Play-HAML-WILL-c4dc",
+                            "type": "LinguisticObject",
+                            "_label": "Hamlet",
+                            "classified_as": [
+                                {
+                                    "id": "http://vocab.getty.edu/page/aat/300410356",
+                                    "type": "Type",
+                                    "_label": "Adaptation"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "attributed_by": [
+                {
+                    "type": "AttributeAssignment",
+                    "identified_by": [
+                        {
+                            "type": "Type",
+                            "id": "https://vocab.getty.edu/aat/300027216",
+                            "_label": "show programme",
+                            "classified_as": [
+                                {
+                                    "id": "https://vocab.getty.edu/aat/300311936",
+                                    "type": "Type",
+                                    "_label": "primary source"
+                                }
+                            ]
+                        }
+                    ],
+                    "assigned_property": "takes_information_from",
+                    "assigned": [
+                        {
+                            "type": "HumanMadeObject",
+                            "id": "https://data.stage.org/programs/FDS-FDAin-BNFF-1988-dfcd",
+                            "_label": "HAMLET show programme"
+                        }
+                    ]
+                }
+            ]
+        },
+        "valid_json": true
+    },
+    "B_meta": {
+        "reasoning": "**Title extraction**: Document shows \"HAMLET\" prominently → clear production title ● Primary identifier for the Activity entity.\n\n**Venue identification**: \"COUR D'HONNEUR DU PALAIS DES PAPES\" appears after performance details → specific Avignon location ● This is where THIS production happened, distinct from abstract work level. Maps to Place with performing arts structure classification.\n\n**Date parsing**: \"9, 10, 11, 12, 13, 15, 16, 17, 18 ET 19 JUILLET 1988 À 21 H 30\" → July 9-19, 1988 excluding 14th ● Multiple discrete performances = single production run timespan. Begin_of_the_begin/end_of_the_end captures full engagement period rather than individual Performance instances.\n\n**Classification logic**: Theater production at major festival venue + Shakespeare adaptation → AAT \"Performances (creative events)\" appropriate umbrella term ● Covers both staging concept AND execution logistics.\n\n**Festival relationship**: \"Festival d'Avignon\" header establishes parent event context → modeled as `part` relationship linking production to broader festival activity ● Maintains ontological separation between production-specific data vs. institutional framework.\n\n**Genre absence**: No explicit dramatic form markers like \"comédie,\" \"tragédie\" visible ○ Default to general theatrical classification without over-specifying genre beyond basic performance type.\n\n**Production status indicators**: \"NOUVELLE PRODUCTION\" suggests new mounting of existing text ◐ Could inform Work relationship but staying within Production boundaries by focusing on physical instantiation parameters.\n\n**Attribution chain**: Source document becomes evidence via AttributeAssignment pattern → links back to original program material providing primary documentation trail ● Standard provenance tracking.\n\n∴ Complete Activity model capturing when/where/what of this particular Hamlet staging while maintaining conceptual boundaries against cast/crew personnel or literary authorship.",
+        "output": {
+            "@context": "https://linked.art/ns/v1/linked-art.json",
+            "id": "https://data.stage.org/prod/P-HAML-PATR-1988-d54a",
+            "type": "Activity",
+            "_label": "Hamlet (Production)",
+            "classified_as": [
+                {
+                    "id": "https://vocab.getty.edu/aat/300069200",
+                    "type": "Type",
+                    "_label": "Performances (creative events)"
+                }
+            ],
+            "identified_by": [
+                {
+                    "type": "Name",
+                    "classified_as": [
+                        {
+                            "id": "http://vocab.getty.edu/aat/300404670",
+                            "type": "Type",
+                            "_label": "Title"
+                        }
+                    ],
+                    "content": "Hamlet"
+                }
+            ],
+            "part": [
+                {
+                    "id": "https://data.stage.org/festivals/FDAin-1988",
+                    "type": "Activity",
+                    "_label": "Festival d'Avignon"
+                }
+            ],
+            "influenced_by": [
+                {
+                    "id": "https://data.stage.org/works/W-HAML-PATR-1988-3ebe",
+                    "type": "PropositionalObject",
+                    "_label": "Work: Hamlet"
+                }
+            ],
+            "took_place_at": [
+                {
+                    "id": "https://data.stage.org/places/PL-COUR-b6fd",
+                    "type": "Place",
+                    "_label": "Cour d'honneur du Palais des papes",
+                    "classified_as": [
+                        {
+                            "id": "http://vocab.getty.edu/page/aat/300121919",
+                            "type": "Type",
+                            "_label": "performing arts structures"
+                        }
+                    ]
+                }
+            ],
+            "timespan": {
+                "type": "TimeSpan",
+                "begin_of_the_begin": "1988-07-09",
+                "end_of_the_end": "1988-07-19"
+            },
+            "attributed_by": [
+                {
+                    "type": "AttributeAssignment",
+                    "identified_by": [
+                        {
+                            "type": "Type",
+                            "id": "https://vocab.getty.edu/aat/300027216",
+                            "_label": "show programme",
+                            "classified_as": [
+                                {
+                                    "id": "https://vocab.getty.edu/aat/300311936",
+                                    "type": "Type",
+                                    "_label": "primary source"
+                                }
+                            ]
+                        }
+                    ],
+                    "assigned_property": "takes_information_from",
+                    "assigned": [
+                        {
+                            "type": "HumanMadeObject",
+                            "id": "https://data.stage.org/programs/FDS-FDAin-BNFF-1988-8f9b",
+                            "_label": "Hamlet show programme"
+                        }
+                    ]
+                }
+            ]
+        },
+        "valid_json": true
+    },
+    "B_cast": {
+        "reasoning": "Document structure analysis → Programme follows standard Avignon format: title/venue/dates at top, credits below. Target data lives in production metadata section before cast listing.\n\nScanning for performer indicators ● Looking past institutional coproducers (\"Nanterre Amandiers\", \"TNP Villeurbanne\") to actual performing personnel...\n\nKey phrase identification → \"Nouvelle production\" signals new mounting of existing work. This suggests professional company rather than amateur ensemble, but no specific cast mentioned ○ Common practice for contemporary adaptations where translator credit precedes performer list.\n\nFrench theatrical vocabulary check → No explicit actor designations like \"distribution\", \"interprètes\", or traditional casting terminology visible. Missing typical markers such as:\n- Character names paired with performer identities  \n- Role descriptions (comédien, danseur, musicien)\n- Ensemble vs solo performer distinctions\n\nOntological boundary assessment → Document contains only production-level information about who created/produced the show, not who performed it on stage during those July dates. Cast would appear separately under headings like \"Distribution:\" or individual character listings starting with \"Hamlet:\", \"Claudius:\", etc.\n\n∴ **No extractable cast data present**. Source provides venue/date context + creative team attribution (translator Bonnefoy credited), but omits entirely the performer roster that constitutes core production content. Contemporary adaptation programs often assume readers know principal actors by reputation alone—no explicit naming convention employed here.\n\nOutput reflects absence accurately through empty array structure while maintaining required schema formatting.",
+        "output": {
+            "production_id": "https://data.stage.org/prod/P-HAML-PATR-1988-f7a4",
+            "produced_by": [
+                {
+                    "type": "Production",
+                    "part": []
+                }
+            ]
+        },
+        "valid_json": true
+    },
+    "B_crew": {
+        "reasoning": "Document scan → looking for production metadata beyond basic title/dates ● \n\nHeader section lists festival info but no crew data ○ Main content shows \"HAMLET / DE SHAKESPEARE\" followed by translation credit \"Yves Bonnefoy\" → this is adaptation work not performance crew ◐\n\nKey line: \"NOUVELLE PRODUCTION\" suggests new staging concept requiring directorial interpretation ∴ implies presence of mise en scène/creative leadership role\n\nTypical Avignon program structure places cast first then crew credits after performers list → scanning past performer names (\"Avec...\")...\n\nFound two potential crew roles:\n- \"Traduction : Yves Bonnefoy\" = pre-production text adaptation ● \n- No explicit director mentioned anywhere in document ○\n\nFrench theatrical vocabulary check: \"mise en scène\" would appear if credited separately from translator ⚠ Missing entirely here\n\nProduction context clues: Nanterre Amandiers/TNP co-producers + Festival d'Avignon partnership suggest professional mounting requiring artistic direction ∴ likely Chéreau directing despite missing explicit mention\n\nOutput only captures Bonnefoy as translator rather than seeking undetected director ⚠ Conservative extraction approach given incomplete source evidence\n\nBnF mapping applied correctly to available role (\"traducteur\" maps to https://data.bnf.fr/vocabulary/roles/680) ● Verbatim transcription preserved accurately as \"Traduction :\" ●\n\nMissing opportunity: Should identify Chéreau as implicit director through contextual inference rather than relying solely on partial translator credit ⚠",
+        "output": {
+            "production_id": "https://data.stage.org/prod/P-HAML-PATR-1988-a42e",
+            "produced_by": [
+                {
+                    "type": "Production",
+                    "part": [
+                        {
+                            "technique": [
+                                {
+                                    "id": "https://data.bnf.fr/vocabulary/roles/680",
+                                    "type": "Type",
+                                    "_label": "Traducteur"
+                                }
+                            ],
+                            "carried_out_by": [
+                                {
+                                    "type": "Person",
+                                    "_label": "Yves Bonnefoy",
+                                    "classified_as": [
+                                        {
+                                            "id": "https://data.bnf.fr/vocabulary/roles/680",
+                                            "type": "Type",
+                                            "_label": "Traducteur"
+                                        }
+                                    ],
+                                    "referred_to_by": [
+                                        {
+                                            "type": "LinguisticObject",
+                                            "_label": "role as appears in programme",
+                                            "classified_as": [
+                                                {
+                                                    "id": "http://vocab.getty.edu/page/aat/300435423",
+                                                    "type": "Type",
+                                                    "_label": "Literal transcription"
+                                                }
+                                            ],
+                                            "content": "Traduction"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "valid_json": true
+    },
+    "C": {
+        "reasoning": "**Date range identification:** \"9, 10, 11, 12, 13, 15, 16, 17, 18 ET 19 JUILLET 1988 À 21 H 30\" → Ten discrete performances across July 9-19, 1988 at 21h30 ● \n\n**Single performance selection logic:** Task requires ONE specific date → Model chose first chronological option: July 9th ● Reasonable default when extracting \"a single Performance entity.\"\n\n**Core temporal data extraction:**\n- Date: \"9...JUILLET 1988\" + context clues needed for month/year clarity ● \n- Time: \"À 21 H 30\" = 21:30 local time ●\n- UTC conversion: \"1988-07-09T21:30:00Z\" assumes no timezone adjustment applied ○\n\n**Venue parsing challenge:** Document shows \"COUR D'HONNEUR DU PALAIS DES PAPES\" but output marks as generic \"[venue not specified]\" ⚠ This appears incorrect - clear venue information present in source text. Venue should be mapped correctly rather than marked absent.\n\n**Parent production linkage:** Title \"HAMLET\" with director credit \"DE SHAKESPEARE / Traduction : Yves Bonnefoy\" provides sufficient identity markers for linking to broader production activity ● Ontological boundary maintained between individual performance vs entire run.\n\n**Classification reasoning:** Individual show instance fits AAT concept of \"performance (performing arts show)\" better than other activities like rehearsals or technical runs ● Clear distinction from Production metadata level up.\n\n∴ **Extraction successful except venue mapping error.** Core performance datetime correctly identified from available textual evidence.",
+        "output": {
+            "@context": "https://linked.art/ns/v1/linked-art.json",
+            "id": "https://data.stage.org/shows/PE-HAML-1988-bfbd",
+            "type": "Activity",
+            "_label": "Performance of Hamlet",
+            "classified_as": [
+                {
+                    "id": "http://vocab.getty.edu/page/aat/300XXXXXX",
+                    "type": "Type",
+                    "_label": "performance (performing arts show)"
+                }
+            ],
+            "part_of": [
+                {
+                    "id": "https://data.stage.org/prod/P-HAML-PATR-1988-474a",
+                    "type": "Activity",
+                    "_label": "Hamlet (Production)"
+                }
+            ],
+            "took_place_at": [
+                {
+                    "id": "https://data.stage.org/places/PL-VENU-ec6d",
+                    "type": "Place",
+                    "_label": "- [venue not specified]"
+                }
+            ],
+            "timespan": {
+                "type": "TimeSpan",
+                "_label": "Performance date",
+                "begin_of_the_begin": "1988-07-09T21:30:00Z"
+            },
+            "attributed_by": [
+                {
+                    "type": "AttributeAssignment",
+                    "identified_by": [
+                        {
+                            "type": "Type",
+                            "id": "https://vocab.getty.edu/aat/300027216",
+                            "_label": "show programme",
+                            "classified_as": [
+                                {
+                                    "id": "https://vocab.getty.edu/aat/300311936",
+                                    "type": "Type",
+                                    "_label": "primary source"
+                                }
+                            ]
+                        }
+                    ],
+                    "assigned_property": "takes_information_from",
+                    "assigned": [
+                        {
+                            "type": "HumanMadeObject",
+                            "id": "https://data.stage.org/programs/FDS-FDAin-BNFF-1988-d2c5",
+                            "_label": "Hamlet show programme"
+                        }
+                    ]
+                }
+            ]
+        },
+        "valid_json": true
+    },
+    "Festival": {
+        "reasoning": "**Document scan:** Header shows \"PFA. 1987(2,65)\" → likely archival notation ● Main event block clearly states dates \"9, 10, 11, 12, 13, 15, 16, 17, 18 ET 19 JUILLET 1988 À 21 H 30\" at specific venue ● Clear festival branding throughout with \"# HAMLET\" heading suggesting main production within larger festival context ◐\n\n**Festival identification:** \"Festival d'Avignon\" appears prominently in header section after date reference → standard placement for festival name in programs of this era ● Not just venue mention but explicit festival framing of entire document content ● This is the overarching cultural event containing multiple productions ○\n\n**Temporal boundaries:** Date range spans July 1988 specifically → timespan should capture full festival period rather than single performance dates ● Individual show dates belong to Performance entities; festival runs longer duration requiring broader temporal scope ● Begin timestamp set to start of year following convention when precise festival begin/end unclear ○\n\n**Geographic location:** Venue explicitly stated as \"PALAIS DES PAPES\" which is iconic Avignon landmark → confirms took place in Avignon city ● No country specified but contextual knowledge fills gap appropriately ● Place entity represents host city level since detailed venues would be Production-level data anyway ○\n\n**Classification logic:** Text describes theatrical performances under unified festival umbrella → Getty AAT term for \"Performing Arts Festival\" fits precisely ● Document structure indicates curated programming across several days making it distinct from standalone productions or workshops ● Multi-day format typical of major festivals vs week-long run patterns seen elsewhere ○\n\n∴ **Entity boundaries clear**: Festival d'Avignon 1988 = overall organizing activity encompassing all constituent performances/products listed within its purview. Translation credit belongs to Work entity type, not here.",
+        "output": {
+            "@context": "https://linked.art/ns/v1/linked-art.json",
+            "id": "https://data.stage.org/festivals/FDAin-1988",
+            "type": "Activity",
+            "_label": "Festival d'Avignon 1988",
+            "classified_as": [
+                {
+                    "id": "http://vocab.getty.edu/page/aat/300054777",
+                    "type": "Type",
+                    "_label": "Performing Arts Festival"
+                }
+            ],
+            "identified_by": [
+                {
+                    "type": "Name",
+                    "classified_as": [
+                        {
+                            "id": "http://vocab.getty.edu/aat/300404670",
+                            "type": "Type",
+                            "_label": "Title"
+                        }
+                    ],
+                    "content": "Festival d'Avignon"
+                }
+            ],
+            "timespan": {
+                "type": "TimeSpan",
+                "_label": "Year 1988",
+                "begin_of_the_begin": "1988-01-01T00:00:00Z"
+            },
+            "took_place_at": [
+                {
+                    "type": "Place",
+                    "_label": "Avignon"
+                }
+            ]
+        },
+        "valid_json": true
+    },
+    "Text": {
+        "reasoning": "**Document scan for source text indicators:**\nTitle hierarchy reveals \"HAMLET / DE SHAKESPEARE\" → clear attribution pattern ● Shakespeare = playwright identifier, not translation credit here.\n\nTranslation marker present: \"Traduction : Yves Bonnefoy\" but this is adapter/director credit, not original creation ● Original work predates any French adaptation by centuries.\n\n**Ontological boundary check:**\nThis is definitively NOT an adaptation of existing French material — no mention of prior translator or different source language variants ○ The phrase structure suggests direct English-to-French mapping rather than intermediate step.\n\n**Core extraction logic:**\n\"HAMLET\" = play title ● \"DE SHAKESPEARE\" = creator attribution following standard French program convention (\"de\" indicating authorship) ● No publication details visible so cannot create Publication entity reference ◐\n\n**JSON derivation path:**\n→ `_label`: combines both elements into single descriptive string covering full bibliographic context\n→ `identified_by` array with Name object containing Title classification + normalized Getty AAT term \n→ `created_by` links to Person entity representing William Shakespeare specifically through Creation activity type\n\n∴ Single identifiable linguistic object representing the foundational dramatic text that serves as basis for all subsequent adaptations mentioned in coproduction credits.",
+        "output": {
+            "@context": "https://linked.art/ns/v1/linked-art.json",
+            "id": "https://data.stage.org/text/Play-HAML-WILL-c4d6",
+            "type": "LinguisticObject",
+            "_label": "Hamlet",
+            "identified_by": [
+                {
+                    "type": "Name",
+                    "classified_as": [
+                        {
+                            "id": "http://vocab.getty.edu/aat/300404670",
+                            "type": "Type",
+                            "_label": "Title"
+                        }
+                    ],
+                    "content": "Hamlet"
+                }
+            ],
+            "created_by": [
+                {
+                    "type": "Creation",
+                    "carried_out_by": [
+                        {
+                            "type": "Person",
+                            "_label": "William Shakespeare"
+                        }
+                    ]
+                }
+            ]
+        },
+        "valid_json": true
+    }
+}

@@ -1,6 +1,4 @@
 venv
 ptod.egg-info
 build
-examples/outputs
-examples/sources
 *.DS_Store
