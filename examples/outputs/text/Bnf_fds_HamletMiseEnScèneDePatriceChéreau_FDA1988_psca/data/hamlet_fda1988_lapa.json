@@ -1,0 +1,1055 @@
+{
+  "overall_event": [
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Overall Event",
+      "title": "Festival d'Avignon",
+      "id": "FDAin-1988",
+      "genre_category": "Performing Arts Festival",
+      "date_beginning": "1988",
+      "date_end": "1988",
+      "place": "Avignon",
+      "sponsors": [
+        {
+          "name": "Crédit Local de France",
+          "role": [
+            "Patrons"
+          ],
+          "verbatim_role": "parraine le Festival d'Avignon pour la quatrième année consécutive"
+        }
+      ],
+      "reference_textual_work": [
+        "FDS-FDAin-HAML-1988-a3bZ"
+      ]
+    }
+  ],
+  "programme": [
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "show programme",
+      "title": "Hamlet",
+      "id": "FDS-FDAin-HAML-1988-a3bZ",
+      "title_type": "titles (general, names)",
+      "creator_name": [
+        "Festival d'Avignon"
+      ],
+      "creator_role": [
+        [
+          "Editeur"
+        ]
+      ],
+      "creator_verbatim_role": [
+        null
+      ],
+      "date": "1988",
+      "text_content": [
+        {
+          "value": "MON ROI\nDans ma nuit, j'assiège mon Roi, je me lève progressivement et je lui tords le cou. Il reprend des forces, je reviens sur lui, et lui tords le cou une fois de plus. Je le secoue, et le secoue comme un vieux prunier, et sa couronne tremble sur sa tête. Et pourtant, c'est mon Roi, je le sais et il le sait, et c'est bien sûr que je suis à son service. Cependant dans la nuit, la passion de mes mains l'étrangle sans répit. Point de lâcheté pourtant, j'arrive les mains nues et je serre son cou de Roi. Et c'est mon Roi, que j'étrangle vainement depuis si longtemps dans le secret de ma petite chambre ; sa face d'abord bleuie, après peu de temps redevient naturelle, et sa tête se relève, chaque nuit, chaque nuit. Dans le secret de ma petite chambre, je pète à la figure de mon Roi. Ensuite j'éclate de rire. Il essaie de montrer un front serein, et lavé de toute injure. Mais je lui pète sans discontinuer à la figure, sauf pour me retourner vers lui, et éclater de rire à sa noble face, qui essaie de garder de la majesté. C'est ainsi que je me conduis avec lui ; commencement sans fin de ma vie obscure. Et maintenant je le renverse par terre, et m'assieds sur sa figure. Son auguste figure disparaît ; mon pantalon rude aux taches d'huile, et mon derrière — puisque enfin c'est son nom — se tiennent sans embarras sur cette face faite pour régner. Et je ne me gêne pas, ah non, pour me tourner à gauche et à droite, quand il me plaît et plus même, sans m'occuper de ses yeux ou de son nez qui pourraient être dans le chemin. Je ne m'en vais qu'une fois lassé d'être assis. Et si je me retourne, sa face imperturbable règne, toujours. Je le gifle, je le gifle, je le mouche ensuite par dérision comme un enfant. Cependant il est bien évident que c'est lui le Roi, et moi son sujet, son unique sujet. A coups de pied dans le cul, je le chasse de ma chambre. Je le couvre de déchets de cuisine et d'ordures. Je lui casse la vaisselle dans les jambes. Je lui bourre les oreilles de basses et pertinentes injures, pour bien l'atteindre à la fois profondément et honteusement, de calomnies à la Napolitaine particulièrement crasseuses et circonstanciées, et dont le seul énoncé est une souillure dont on ne peut plus se défaire, habit ignoble fait sur mesure : le purin vraiment de l'existence. Eh bien, il me faut recommencer le lendemain.\nHenri Michaux \"La nuit remue\" (Gallimard, 1967).",
+          "text_topic": "Texte littéraire",
+          "text_language": "fr",
+          "text_source": "Henri Michaux, « La nuit remue », Gallimard, 1967",
+          "link_to_production": "P-HAML-CHER-1988-j2mN"
+        },
+        {
+          "value": "UAP\nPour la première fois, dans le cadre de ses actions culturelles, l'UAP s'associe au théâtre avec la création d'\"Hamlet\"",
+          "text_topic": "Information complémentaire sur la production",
+          "text_language": "fr",
+          "text_source": null,
+          "link_to_production": "P-HAML-CHER-1988-j2mN"
+        }
+      ],
+      "language": [
+        "fr"
+      ],
+      "publisher_name": "Laffont — Avignon",
+      "publisher_role": [],
+      "publisher_verbatim_role": "imprimeur"
+    }
+  ],
+  "textual_work": [
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Textual Work",
+      "titles": [
+        {
+          "value": "Hamlet",
+          "title_type": "original titles"
+        }
+      ],
+      "id": "Play-HAML-SHAK-q2wE",
+      "creator_name": [
+        "Shakespeare"
+      ],
+      "creator_role": [
+        [
+          "Auteur"
+        ]
+      ],
+      "creator_verbatim_role": [
+        "De"
+      ]
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Textual Work",
+      "titles": [
+        {
+          "value": "Hamlet",
+          "title_type": "translated titles"
+        }
+      ],
+      "id": "Play-HAML-BONN-r5tY",
+      "creator_name": [
+        "Yves Bonnefoy",
+        "Shakespeare"
+      ],
+      "creator_role": [
+        [
+          "Traducteur"
+        ],
+        [
+          "Auteur"
+        ]
+      ],
+      "creator_verbatim_role": [
+        "Traduction",
+        null
+      ],
+      "reference_textual_work": [
+        "Play-HAML-SHAK-q2wE"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Work",
+      "titles": [
+        {
+          "value": "Hamlet",
+          "title_type": "titles (general, names)"
+        }
+      ],
+      "identifier": "W-HAML-CHER-1988-x7kL",
+      "company_name": "Nanterre Amandiers",
+      "company_role": [
+        "Producteur"
+      ],
+      "creator_name": [
+        "Patrice Chéreau"
+      ],
+      "creator_role": [
+        [
+          "Metteur en scène"
+        ]
+      ],
+      "creator_verbatim_role": [
+        "Mise en scène"
+      ],
+      "date_beginning": "1988-07-09",
+      "date_end": "1988-07-09",
+      "date_verbatim": "9 juillet 1988",
+      "play_used": "Play-HAML-BONN-r5tY"
+    }
+  ],
+  "production": [
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Production",
+      "titles": [
+        {
+          "value": "Hamlet",
+          "title_type": "titles (general, names)"
+        }
+      ],
+      "production_identifier": "P-HAML-CHER-1988-j2mN",
+      "work_produced": "W-HAML-CHER-1988-x7kL",
+      "genre_verbatim": null,
+      "predicted_genre": "théâtre",
+      "language": "fr",
+      "language_predicted": null,
+      "part_of_production": "FDAin-1988",
+      "date_beginning": "1988-07-09",
+      "date_end": "1988-07-19",
+      "production_venue": "PL-COUR-7p3m",
+      "performers": [
+        {
+          "name": "Gérard Desarthe",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Hamlet, prince de Danemark"
+        },
+        {
+          "name": "Robin Renucci",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Claudius, roi de Danemark, oncle d'Hamlet"
+        },
+        {
+          "name": "Marthe Keller",
+          "group": null,
+          "role": [
+            "Actrice"
+          ],
+          "verbatim_role": null,
+          "character": "Gertrude, reine de Danemark, mère d'Hamlet"
+        },
+        {
+          "name": "Wladimir Yordanoff",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Le Spectre / Le premier Comédien, qui joue le Roi / Le deuxième Fossoyeur"
+        },
+        {
+          "name": "Bernard Ballet",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Polonius, conseiller d'Etat"
+        },
+        {
+          "name": "Vincent Perez",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Laerte, fils de Polonius"
+        },
+        {
+          "name": "Marianne Denicourt",
+          "group": null,
+          "role": [
+            "Actrice"
+          ],
+          "verbatim_role": null,
+          "character": "Ophélie, fille de Polonius"
+        },
+        {
+          "name": "Thibault de Montalembert",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Horatio, ami d'Hamlet"
+        },
+        {
+          "name": "Bruno Todeschini",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "Anciens condisciples d'Hamlet",
+          "character": "Rosencrantz"
+        },
+        {
+          "name": "Olivier Rabourdin",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "Anciens condisciples d'Hamlet",
+          "character": "Guildenstern"
+        },
+        {
+          "name": "Pascal Greggory",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Fortinbras / Francisco / Le quatrième Comédien / Le prêtre"
+        },
+        {
+          "name": "André Julien",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "Conseillers et ambassadeurs danois",
+          "character": "Valtemand"
+        },
+        {
+          "name": "Foued Nassah",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Cornélius / Reynaldo, serviteur de Polonius / Le cinquième Comédien / Un capitaine norvégien"
+        },
+        {
+          "name": "Marc Citti",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Osric, courtisan / Bernardo"
+        },
+        {
+          "name": "Bernard Nissille",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Un seigneur"
+        },
+        {
+          "name": "Roland Amstutz",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": null,
+          "character": "Marcellus / Le troisième Comédien / Le premier Fossoyeur"
+        },
+        {
+          "name": "Nada Strancar",
+          "group": null,
+          "role": [
+            "Actrice"
+          ],
+          "verbatim_role": null,
+          "character": "La Reine de comédie"
+        },
+        {
+          "name": "Marc Chautard",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "et",
+          "character": null
+        },
+        {
+          "name": "Philippe Chevalier",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "et",
+          "character": null
+        },
+        {
+          "name": "Jean-Eric Desalme",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "et",
+          "character": null
+        },
+        {
+          "name": "David Legras",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "et",
+          "character": null
+        },
+        {
+          "name": "Jean-Louis Palumbo",
+          "group": null,
+          "role": [
+            "Acteur"
+          ],
+          "verbatim_role": "et",
+          "character": null
+        }
+      ],
+      "team": [
+        {
+          "name": "Patrice Chéreau",
+          "group": null,
+          "role": [
+            "Metteur en scène"
+          ],
+          "verbatim_role": "Mise en scène",
+          "assists": null
+        },
+        {
+          "name": "Richard Peduzzi",
+          "group": null,
+          "role": [
+            "Scénographe"
+          ],
+          "verbatim_role": "Décor",
+          "assists": null
+        },
+        {
+          "name": "Jacques Schmidt",
+          "group": null,
+          "role": [
+            "Costumier"
+          ],
+          "verbatim_role": "Costumes",
+          "assists": null
+        },
+        {
+          "name": "Daniel Delannoy",
+          "group": null,
+          "role": [
+            "Concepteur lumière"
+          ],
+          "verbatim_role": "Lumière",
+          "assists": null
+        },
+        {
+          "name": "Philippe Cachia",
+          "group": null,
+          "role": [
+            "Concepteur son",
+            "Régisseur son"
+          ],
+          "verbatim_role": "Son ; Régie son",
+          "assists": null
+        },
+        {
+          "name": "Claude Stratz",
+          "group": null,
+          "role": [
+            "Assistant à la mise en scène"
+          ],
+          "verbatim_role": "Assistants à la mise en scène",
+          "assists": "Patrice Chéreau (Mise en scène)"
+        },
+        {
+          "name": "Florence Emir",
+          "group": null,
+          "role": [
+            "Assistant à la mise en scène"
+          ],
+          "verbatim_role": "Assistants à la mise en scène",
+          "assists": "Patrice Chéreau (Mise en scène)"
+        },
+        {
+          "name": "Matthew Jocelyn",
+          "group": null,
+          "role": [
+            "Assistant à la mise en scène"
+          ],
+          "verbatim_role": "Assistants à la mise en scène",
+          "assists": "Patrice Chéreau (Mise en scène)"
+        },
+        {
+          "name": "Christian Frédric",
+          "group": null,
+          "role": [
+            "Assistant à la mise en scène"
+          ],
+          "verbatim_role": "Assistants à la mise en scène",
+          "assists": "Patrice Chéreau (Mise en scène)"
+        },
+        {
+          "name": "Denis Fruchaud",
+          "group": null,
+          "role": [
+            "Assistant"
+          ],
+          "verbatim_role": "Assistants au décor",
+          "assists": "Richard Peduzzi (Décor)"
+        },
+        {
+          "name": "Bernard Giraud",
+          "group": null,
+          "role": [
+            "Assistant"
+          ],
+          "verbatim_role": "Assistants au décor",
+          "assists": "Richard Peduzzi (Décor)"
+        },
+        {
+          "name": "Emmanuel Peduzzi",
+          "group": null,
+          "role": [
+            "Assistant"
+          ],
+          "verbatim_role": "Assistant aux costumes",
+          "assists": "Jacques Schmidt (Costumes)"
+        },
+        {
+          "name": "Philippe Bœsmans",
+          "group": null,
+          "role": [
+            "Compositeur"
+          ],
+          "verbatim_role": "Chansons d'Ophélie",
+          "assists": null
+        },
+        {
+          "name": "Kuno Schlegelmilch",
+          "group": null,
+          "role": [
+            "Maquilleur"
+          ],
+          "verbatim_role": "Maquillages, perruques, effets spéciaux",
+          "assists": null
+        },
+        {
+          "name": "Raoul Billerey",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Combat réglé par",
+          "assists": null
+        },
+        {
+          "name": "Alain Saugout",
+          "group": null,
+          "role": [
+            "Assistant"
+          ],
+          "verbatim_role": "Combat réglé par. Assisté de",
+          "assists": "Raoul Billerey (Combat réglé par)"
+        },
+        {
+          "name": "Mario Luraschi",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Dressage et cascades",
+          "assists": null
+        },
+        {
+          "name": "Jean-Loup Michou",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Cascadeur",
+          "assists": null
+        },
+        {
+          "name": "Jeff Cohen",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Chef de chant",
+          "assists": null
+        },
+        {
+          "name": "Jean-Baptiste Auffret",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Stagiaires pour le décor",
+          "assists": null
+        },
+        {
+          "name": "Emmanuelle Beck",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Stagiaires pour le décor",
+          "assists": null
+        },
+        {
+          "name": "Bruno Collet",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Chef constructeur",
+          "assists": null
+        },
+        {
+          "name": "Bernard Steffenino",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [
+            "Assistant"
+          ],
+          "verbatim_role": "Chef d'atelier ; Chef machiniste. Assisté de",
+          "assists": "Gérard Rocher (Chef machiniste)"
+        },
+        {
+          "name": "Alwine de Dardel",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Réalisation des patines",
+          "assists": null
+        },
+        {
+          "name": "Alain Tchillinguirian",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Réalisation des patines",
+          "assists": null
+        },
+        {
+          "name": "Claude Sevestre",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Réalisation des patines",
+          "assists": null
+        },
+        {
+          "name": "Patrick Calteau",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Patrice Chrétín",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Roland Ciprut",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Robert Descourtils",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Patrick Laganne",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Jean Opfermann",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Jérôme Perrin",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Gérard Simonet",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Menuisiers",
+          "assists": null
+        },
+        {
+          "name": "Karim Bouziouane",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Patrick Delaplace",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Jean-Pierre Dijon",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Jean-Claude Fiems",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Fabrice Mijet",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Richard Omont",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Philippe Roux",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Olivier Sarrazy",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Serruriers",
+          "assists": null
+        },
+        {
+          "name": "Ateliers Gérard Audier",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Réalisation des costumes",
+          "assists": null
+        },
+        {
+          "name": "Etienne",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Réalisation des costumes",
+          "assists": null
+        },
+        {
+          "name": "Beaujoin",
+          "group": "les ateliers de Nanterre Amandiers",
+          "role": [],
+          "verbatim_role": "Réalisation des costumes",
+          "assists": null
+        },
+        {
+          "name": "Denis Poulin",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Perruques",
+          "assists": null
+        },
+        {
+          "name": "Pompei",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Chaussures",
+          "assists": null
+        },
+        {
+          "name": "Quadra",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Armures",
+          "assists": null
+        },
+        {
+          "name": "Lalaire",
+          "group": null,
+          "role": [],
+          "verbatim_role": "Chapeaux",
+          "assists": null
+        },
+        {
+          "name": "Lucien Hassoun",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Régisseur général"
+          ],
+          "verbatim_role": "Régie générale",
+          "assists": null
+        },
+        {
+          "name": "Claude Christophel",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Régisseur lumière"
+          ],
+          "verbatim_role": "Régie lumière",
+          "assists": null
+        },
+        {
+          "name": "Gilles Séclin",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Régisseur lumière"
+          ],
+          "verbatim_role": "Régie lumière",
+          "assists": null
+        },
+        {
+          "name": "Bernard Jamond",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Régisseur son"
+          ],
+          "verbatim_role": "Régie son",
+          "assists": null
+        },
+        {
+          "name": "Gérard Rocher",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Machiniste"
+          ],
+          "verbatim_role": "Chef machiniste",
+          "assists": null
+        },
+        {
+          "name": "Josette Planet",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Habilleuse"
+          ],
+          "verbatim_role": "Habilleuse",
+          "assists": null
+        },
+        {
+          "name": "Elisabeth Doucet",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Maquilleuse"
+          ],
+          "verbatim_role": "Maquilleuse",
+          "assists": null
+        },
+        {
+          "name": "Marion Urfeels",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Coiffeuse"
+          ],
+          "verbatim_role": "Coiffeuses",
+          "assists": null
+        },
+        {
+          "name": "Bettina Keller",
+          "group": "équipe technique du Festival d'Avignon",
+          "role": [
+            "Coiffeuse"
+          ],
+          "verbatim_role": "Coiffeuses",
+          "assists": null
+        },
+        {
+          "name": "Félix Lefebvre",
+          "group": "Festival d'Avignon",
+          "role": [
+            "Directeur technique"
+          ],
+          "verbatim_role": "Direction technique",
+          "assists": null
+        },
+        {
+          "name": "Françoise Peyronnet",
+          "group": "Festival d'Avignon",
+          "role": [
+            "Directrice technique"
+          ],
+          "verbatim_role": "Direction technique",
+          "assists": null
+        }
+      ],
+      "musicians": [],
+      "animals": [],
+      "sponsors": [
+        {
+          "name": "UAP",
+          "role": [
+            "Patrons"
+          ],
+          "verbatim_role": "avec la participation de"
+        }
+      ],
+      "funders": [],
+      "producing_companies": [
+        {
+          "name": "Nanterre Amandiers",
+          "role": [
+            "Coproducteur"
+          ],
+          "verbatim_role": "coproduction"
+        },
+        {
+          "name": "TNP Villeurbanne",
+          "role": [
+            "Coproducteur"
+          ],
+          "verbatim_role": "coproduction"
+        },
+        {
+          "name": "Festival d'Avignon",
+          "role": [
+            "Coproducteur"
+          ],
+          "verbatim_role": "coproduction"
+        }
+      ],
+      "reference_textual_work": [
+        "FDS-FDAin-HAML-1988-a3bZ"
+      ]
+    }
+  ],
+  "performance": [
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-a1b2-2130",
+      "premiere_type": "world premiere",
+      "premiere_verbatim": "création — Festival d'Avignon 1988",
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-09 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-c3d4-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-10 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-e5f6-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-11 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-g7h8-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-12 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-i9j0-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-13 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-k1l2-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-15 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-m3n4-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-16 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-o5p6-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-17 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-q7r8-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-18 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    },
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Performance",
+      "title": "Hamlet",
+      "title_type": "titles (general, names)",
+      "id": "PE-HAML-1988-s9t0-2130",
+      "premiere_type": null,
+      "premiere_verbatim": null,
+      "part_of_event": [
+        "FDAin-1988",
+        "P-HAML-CHER-1988-j2mN"
+      ],
+      "date_beginning": "1988-07-19 21:30",
+      "performance_venue": "PL-COUR-7p3m"
+    }
+  ],
+  "audience": [],
+  "projected_event_tour": [],
+  "place": [
+    {
+      "source": "Bnf_fds_HamletMiseEnScèneDePatriceChéreau_FDA1988_psca",
+      "type": "Place",
+      "id": "PL-COUR-7p3m",
+      "place_name": "Cour d'Honneur du Palais des Papes",
+      "place_type": "cour"
+    }
+  ]
+}
