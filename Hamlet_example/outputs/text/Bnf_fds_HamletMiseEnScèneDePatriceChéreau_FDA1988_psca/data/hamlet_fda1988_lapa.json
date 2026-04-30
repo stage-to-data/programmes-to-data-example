@@ -251,8 +251,8 @@
           "role": [
             "Acteur"
           ],
-          "verbatim_role": "Anciens condisciples d'Hamlet",
-          "character": "Rosencrantz"
+          "verbatim_role": null,
+          "character": "Anciens condisciples d'Hamlet : Rosencrantz"
         },
         {
           "name": "Olivier Rabourdin",
@@ -260,8 +260,8 @@
           "role": [
             "Acteur"
           ],
-          "verbatim_role": "Anciens condisciples d'Hamlet",
-          "character": "Guildenstern"
+          "verbatim_role": null,
+          "character": "Anciens condisciples d'Hamlet : Guildenstern"
         },
         {
           "name": "Pascal Greggory",
@@ -270,7 +270,7 @@
             "Acteur"
           ],
           "verbatim_role": null,
-          "character": "Fortinbras / Francisco / Le quatrième Comédien / Le prêtre"
+          "character": "Fortinbras / Membres de la garde du roi : Francisco / Le quatrième Comédien / Le prêtre"
         },
         {
           "name": "André Julien",
@@ -278,8 +278,8 @@
           "role": [
             "Acteur"
           ],
-          "verbatim_role": "Conseillers et ambassadeurs danois",
-          "character": "Valtemand"
+          "verbatim_role": null,
+          "character": "Conseillers et ambassadeurs danois : Valtemand"
         },
         {
           "name": "Foued Nassah",
@@ -288,7 +288,7 @@
             "Acteur"
           ],
           "verbatim_role": null,
-          "character": "Cornélius / Reynaldo, serviteur de Polonius / Le cinquième Comédien / Un capitaine norvégien"
+          "character": "Conseillers et ambassadeurs danois : Cornélius / Reynaldo, serviteur de Polonius / Le cinquième Comédien / Un capitaine norvégien"
         },
         {
           "name": "Marc Citti",
@@ -297,7 +297,7 @@
             "Acteur"
           ],
           "verbatim_role": null,
-          "character": "Osric, courtisan / Bernardo"
+          "character": "Osric, courtisan / Membres de la garde du roi : Bernardo"
         },
         {
           "name": "Bernard Nissille",
@@ -315,7 +315,7 @@
             "Acteur"
           ],
           "verbatim_role": null,
-          "character": "Marcellus / Le troisième Comédien / Le premier Fossoyeur"
+          "character": "Membres de la garde du roi : Marcellus / Le troisième Comédien / Le premier Fossoyeur"
         },
         {
           "name": "Nada Strancar",
