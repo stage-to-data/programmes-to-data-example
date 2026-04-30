@@ -19,7 +19,7 @@ PLEIAS_ENTITY_INSTRUCTIONS = {
 
 class PleiasModel:
     def __init__(self, **kwargs):
-        self.model_id = "PleIAs/linked-art-qwen3-4b"
+        self.model_id = kwargs.get("model_id", "PleIAs/linked-art-qwen3-4b")
         self.verbose = kwargs.get("verbose", True)
         self.llm = None
         self.tokenizer = None
