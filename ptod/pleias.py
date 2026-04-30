@@ -32,10 +32,8 @@ class PleiasModel:
             print("\nLoading model...\n")
         self.llm = LLM(
             model = self.model_id, 
-            dtype = "half", 
-            max_model_len = 4096, 
-            gpu_memory_utilization = 0.95, 
-            enforce_eager = True
+            dtype = "bfloat16", 
+            max_model_len = 4096
         )
         self.tokenizer = self.llm.get_tokenizer()
         if self.verbose:
