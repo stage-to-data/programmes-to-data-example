@@ -64,12 +64,12 @@ Verbatim quotations from the printed programme are preserved in the original Fre
 | 4 | Laerte, fils de Polonius : Vincent Perez | M5 performers | performer | Perez → Laerte | captured |
 | 4 | Ophélie, fille de Polonius : Marianne Denicourt | M5 performers | performer | Denicourt → Ophélie | captured |
 | 4 | Horatio, ami d'Hamlet : Thibault de Montalembert | M5 performers | performer | Montalembert → Horatio | captured |
-| 4 | Anciens condisciples d'Hamlet : Rosencrantz / Bruno Todeschini ; Guildenstern / Olivier Rabourdin | M5 performers | performers (× 2) with verbatim_role = section heading | Todeschini, Rabourdin — verbatim « Anciens condisciples d'Hamlet » | captured |
+| 4 | Anciens condisciples d'Hamlet : Rosencrantz / Bruno Todeschini ; Guildenstern / Olivier Rabourdin | M5 performers | performers (× 2) with character including section prefix | Todeschini → character « Anciens condisciples d'Hamlet : Rosencrantz » ; Rabourdin → « Anciens condisciples d'Hamlet : Guildenstern » | captured |
 | 4 | Fortinbras : Pascal Greggory | M5 performers | performer (merged with Greggory's other roles) | Greggory → Fortinbras / Francisco / Le quatrième Comédien / Le prêtre | captured (multi-cast consolidated) |
-| 4 | Conseillers et ambassadeurs danois : Valtemand / André Julien ; Cornélius / Foued Nassah | M5 performers | performers — Julien with verbatim section ; Nassah multi-cast | Julien → Valtemand ; Nassah → 4 roles | captured |
+| 4 | Conseillers et ambassadeurs danois : Valtemand / André Julien ; Cornélius / Foued Nassah | M5 performers | performers — Julien with verbatim section ; Nassah multi-cast | Julien → character « Conseillers et ambassadeurs danois : Valtemand » ; Nassah → 4 roles incl. « Conseillers et ambassadeurs danois : Cornélius » | captured |
 | 4 | Osric, courtisan : Marc Citti | M5 performers | performer (merged with Bernardo) | Citti → Osric, courtisan / Bernardo | captured (multi-cast consolidated) |
 | 4 | Un seigneur : Bernard Nissille | M5 performers | performer | Nissille → Un seigneur | captured |
-| 4 | Membres de la garde du roi : Marcellus/Amstutz, Bernardo/Citti, Francisco/Greggory | M5 performers | performers — Amstutz/Citti/Greggory merged | roles folded into the corresponding multi-cast entries | captured (multi-cast consolidated) |
+| 4 | Membres de la garde du roi : Marcellus/Amstutz, Bernardo/Citti, Francisco/Greggory | M5 performers | performers — Amstutz/Citti/Greggory merged, section heading prepended to relevant character | Amstutz → « Membres de la garde du roi : Marcellus » ; Citti → « Membres de la garde du roi : Bernardo » ; Greggory → « Membres de la garde du roi : Francisco » | captured (multi-cast consolidated) |
 | 4 | Reynaldo, serviteur de Polonius : Foued Nassah | M5 performers | performer (merged Nassah) | Nassah → Reynaldo (folded into multi-cast) | captured |
 | 4 | Le premier Comédien, qui joue le Roi : Wladimir Yordanoff | M5 performers | performer (merged Yordanoff) | Yordanoff → Le premier Comédien (folded into multi-cast) | captured |
 | 4 | La Reine de comédie : Nada Strancar | M5 performers | performer | Strancar → La Reine de comédie | captured |
