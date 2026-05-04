@@ -24,3 +24,6 @@ Element 2 and Element 3, description : Associated element 3 and Associated eleme
 Check the overall readability of your transcription and make sure it reflects the structure of the original document.
 The output should be ONLY the trancribed content (DO NOT add comments like "this is a theatre program" or "I was unable to reliably transcribe this").
 """
+
+data_extraction_prompt = """
+"""

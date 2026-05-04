@@ -19,7 +19,7 @@ PLEIAS_ENTITY_INSTRUCTIONS = {
 
 class PleiasModel:
     def __init__(self, **kwargs):
-        self.model_id = kwargs.get("model_id", "PleIAs/linked-art-qwen3-4b")
+        self.model_id = kwargs.get("model_id", "Pclanglais/POntAvignon-4b")
         self.verbose = kwargs.get("verbose", True)
         self.llm = None
         self.tokenizer = None
@@ -35,9 +35,10 @@ class PleiasModel:
             print("\nLoading model...\n")
         self.llm = LLM(
             model = self.model_id, 
-            dtype = "bfloat16", 
-            max_model_len = 4096,
-            device = self.device
+            dtype = "half", 
+            max_model_len = 4096, 
+            gpu_memory_utilization = 0.95, 
+            enforce_eager = True
         )
         self.tokenizer = self.llm.get_tokenizer()
         if self.verbose:

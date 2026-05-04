@@ -15,16 +15,16 @@ def transcribe(pdf_file, output_folder, **kwargs):
         os.makedirs(output_dest)
 
     for i, source_file in enumerate(source_files):
-        print(f"treating {source_file}")
+        print(f"Treating {source_file}")
         
         txt_path = os.path.join(output_dest, f"{os.path.splitext(os.path.basename(source_file))[0]}.md")
         
         prompt = llmwrap.Prompt(transcription_prompt, images = [source_file])
             
         if kwargs.get("model", "ollama") == "ollama":
-            model = llmwrap.OllamaWrapper(
-                "llama3.2-vision:11b", 
-                # api_key = API_KEY,
+            model = llmwrap.ClaudeWrapper(
+                "claude-3-7-sonnet-20250219", 
+                api_key = kwargs.get("api_key", ""),
                 system_prompt = "You are a tool for the transcription of textual data from scanned images.",
                 max_tokens = 3000
             )
