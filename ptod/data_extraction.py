@@ -1,6 +1,5 @@
 import os
-import json
-from .prompts import data_extraction_prompt
+from .prompts import data_extraction_prompt, data_extraction_system_prompt
 import llmwrap
 from .utils import write_json, collect_files, read_txt
 
@@ -20,12 +19,12 @@ def extract_data_claude(pdf_file, output_folder, **kwargs):
             read = read_txt(source_file)
             full_text = full_text + read + "\n\n"
         
-        prompt = llmwrap.Prompt(data_extraction_prompt)
+        prompt = llmwrap.Prompt(data_extraction_prompt, options = {"MARKDOWN_CONTENT", full_text})
 
         model = llmwrap.ClaudeWrapper(
             "claude-3-7-sonnet-20250219", 
             api_key = kwargs.get("api_key", ""),
-            system_prompt = "You are a tool for the transcription of textual data from scanned images.",
+            system_prompt = data_extraction_system_prompt,
             max_tokens = 3000
         )
 
