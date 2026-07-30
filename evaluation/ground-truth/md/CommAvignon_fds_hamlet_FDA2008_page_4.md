@@ -1,0 +1,20 @@
+contemporaines. La violence et la cruauté sont des éléments très importants sur une scène de théâtre, surtout aujourd'hui où nous sommes en période de guerre. La violence au théâtre ne serait-elle pas le moyen d'une catharsis qui permet à la violence guerrière d'être digérée par la société? Pourquoi sous-estime-t-on le public du théâtre qui voit tant de violence dans les médias et qui ne pourrait pas la voir au théâtre? En France, nous sommes quand même dans la patrie d'Antonin Artaud et de son "théâtre de la cruauté", qui affirmait que le théâtre était là pour nous confronter avec la mort, ce que revendiquera aussi Heiner Müller. En vieillissant, je pense que cela est extrêmement vrai et qu'avec Hamlet on est au cœur même de cette confrontation.
+
+En 2004, vous avez dit dans une interview que "le théâtre devait être un forum, un lieu de débat politique et social". Persistez-vous dans cette opinion?
+
+En jouant Woyzeck en 2004, nous voulions montrer qu'il y avait une marginalisation des banlieues, que ce soit à Paris, à Berlin, à Moscou, à New York ou à Rio de Janeiro. Quelques années plus tard vous avez connu en France de vrais mouvements dans les banlieues. Ce n'était donc pas totalement inintéressant d'en parler sur la scène et de faire réagir le public. Le succès du néolibéralisme ambiant et les conflits qu'il engendre rendent sans doute le théâtre plus nécessaire encore et le renforcent terriblement.
+
+Propos recueillis par Jean-François Perrier en février 2008
+
+# Thomas Ostermeier
+
+Thomas Ostermeier a fait des débuts remarqués en 1996 en présentant des spectacles dans un ensemble de préfabriqués attenant au Deutsches Theater, la Baracke. Se consacrant dans un premier temps aux écritures contemporaines, il crée autour de lui un collectif artistique qui surprend et enthousiasme le public berlinois puis européen. Nommé codirecteur artistique de la Schaubühne à Berlin en 1999, il poursuit son travail mais en alternant textes du répertoire - Büchner, Brecht, Ibsen...- et auteurs d'aujourd'hui - Marius von Mayenburg, Jon Fosse, Biljana Srbljanovic, Sarah Kane, Lars Norén... Classiques ou modernes, ces textes de théâtre sont toujours intégrés dans la réalité d'une Allemagne réunie politiquement mais toujours socialement et culturellement divisée, d'une Europe morcelée, confrontée à une tentative d'invasion culturelle venue d'outre-atlantique, d'un monde qui ne peut effacer ni le conflit ni la barbarie de ses modes de fonctionnement. Dans sa démarche artistique, c'est toujours un théâtre au plus près de l'homme que propose Thomas Ostermeier, qui fut l'artiste associé de la 58e édition du Festival en 2004. 
+Au Festival d'Avignon, Thomas Ostermeier a déjà présenté Homme pour homme de Bertolt Brecht, Sous la ceinture de Richard Dresser et Shopping and Fucking de Mark Ravenhill en 1999, La Mort de Danton de Büchner en 2001, Woyzeck de Büchner dans la Cour d'honneur du Palais des papes, Maison de poupée d'Ibsen, Disco Pigs d'Enda Walsh, Concert à la carte de Franz Xaver Kroetz en 2004 et Anéantis de Sarah Kane en 2005.
+
+# et
+18 juillet • 11h30 • ÉCOLE D'ART
+
+# Dialogues avec le public
+avec Thomas Ostermeier et des membres de l'équipe d'Hamlet, animé par les Ceméa
+
+Pour vous présenter les spectacles de cette édition, plus de mille cinq cents personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Parmi ces personnes, plus de la moitié, techniciens et artistes salariés par le Festival ou les compagnies françaises, relèvent du régime spécifique d'intermittent du spectacle.

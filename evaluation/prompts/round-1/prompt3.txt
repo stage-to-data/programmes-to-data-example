@@ -1,0 +1,11 @@
+I'm going to give you some markdown format text.
+It is an automatic transcription of the textual content in the scan of a document that i am also going to give you.
+The transcription is probably dirty, and needs to be cleaned up. You are going to clean the text.
+This means that you must add capital letters when needed, make sure that the sentences make sense, remove any parasites or strange characters.
+Do not summarize, paraphrase, or infer missing text - if a word cannot be found or is missing insert a ___ in its place.
+Retain all spacing, punctuation, and formatting exactly as in the image.
+Do not generate or use any code, do not use Tesseract or pytesseract — only use your internal vision to read the image.
+The output should be structured in MARKDOWN. Maintain the formating you detect in the image, e.g. bold, italics, as best as you can. 
+Make sure the title of the shows is clearly a title.
+Here is the extracted text:
+&&text

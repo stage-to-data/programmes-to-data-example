@@ -85,7 +85,15 @@ def resize_with_aspect_ratio(orig_width, orig_height, max_width, max_height):
     width_ratio = max_width / orig_width
     height_ratio = max_height / orig_height
 
-    # Choose the smaller ratio to ensure both dimensions fit
+    # Choose the smaller ratio to ensure both dimensions fit.
+    #
+    # NB: this scales *up* as well as down — a page whose render is smaller than
+    # max_dims is enlarged to it, so the VLM is fed interpolated pixels. Three of
+    # the six pages of the Hamlet example are affected. Capping the scale at 1.0
+    # would be the better behaviour, but it changes the bytes sent to the model
+    # and therefore invalidates the published evaluation results, which were
+    # produced with upscaling in place. Left as is deliberately; revisit only
+    # alongside a full re-run of the evaluation.
     scale = min(width_ratio, height_ratio)
 
     # Compute new dimensions
@@ -100,6 +108,15 @@ def save_image(out_path, image, **kwargs):
     cv2.imwrite(out_path, image)
 
 def compress_image_to_size(input_path, output_folder, max_size_mb = 5):
+    """Re-encode to JPEG under a size ceiling, shrinking until it fits.
+
+    NB: the convert("RGB") below undoes the greyscale conversion applied by
+    ``load_image(col="L")`` — the result is a three-channel JPEG whose channels
+    are identical. Storing a single channel would be smaller, but changing this
+    changes the bytes fed to the VLM, and therefore invalidates the published
+    evaluation results, which were produced from three-channel output. Left as
+    is deliberately; revisit only alongside a full re-run of the evaluation.
+    """
     max_size_bytes = max_size_mb * 1024 * 1024
 
     if not os.path.exists(output_folder):

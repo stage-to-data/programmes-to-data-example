@@ -1,0 +1,11 @@
+# A deux, un spectacle.
+
+Le spectacle de Philippe Avron et Claude Evrard est composé de sketches comme un journal est composé de nouvelles : c'est une suite d'images de la vie. Ces images sont comme agrandies et rendues plus perceptibles par le pouvoir du jeu, du texte, des masques, du rire : mais tout est né de l'observation. Ce que Philippe Avron et Claude Evrard observent d'abord, ce sont les relations humaines qu'ils nous donnent à voir dans leurs sketches en duo, sous leurs multiples aspects actuels. Le spectacle lui-même est une relation nouvelle qui s'établit avec le public. Et cette relation choisie et contrôlée, ils la prolongent et s'efforcent de la multiplier par leurs activités d'animateurs.
+
+# A cinq, deux stages.
+
+A Avignon, Philippe Avron et Claude Evrard ne sont pas deux, mais cinq, réunis dans une même tâche, à partir d'expériences très diverses : Danièle Ajoret a fait huit ans de Comédie-Française (expérience classique) ; Bernadette Onfroy a travaillé avec Jorge Lavelli et Jerzy Grotowski (recherches modernes) ; Pierre Trappet est animateur dans des clubs de vacances, tandis qu'eux-mêmes sont anciens élèves de l'Ecole Jacques Lecoq. Ils encadrent deux stages de huit jours consacrés au perfectionnement de ceux dont le métier consiste en relations et contacts dans l'enseignement, l'activité artistique, les groupes de loisirs. Le premier stage est réservé aux animateurs d'Avignon, le second à des stagiaires venus de l'extérieur. Le travail consiste en séances prolongées et renouvelées consacrées aux masques, aux techniques corporelles et à l'improvisation.
+
+# Avec tous, un approfondissement.
+
+Là où ils donnent leur spectacle, Avron et Evrard proposent l'intervention simultanée de leur formule d'animation qui pourra toucher leurs spectateurs soit directement, soit par l'intermédiaire des animateurs déjà en place. Là où l'animation a lieu, les contacts sont donc approfondis, et les animateurs et les « animés » se mettent ensemble à l'épreuve des techniques d'expression qui rendront créative la relation nouée au moment du spectacle. C'est par ces contacts que Philippe Avron, Claude Evrard et leurs amis entretiennent et remettent en cause leur propre activité créatrice.

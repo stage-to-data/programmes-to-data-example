@@ -1,0 +1,22 @@
+# THOMAS OSTERMEIER
+
+C'est lors de ses études à l'École supérieure d'Art dramatique «Ernst Busch» de Berlin que Thomas Ostermeier est remarqué par Manfred Karge, qui en fait son assistant. Sa première mise en scène, Recherche Faust / Artaud, le signale comme un espoir du théâtre germanique. Il devient très vite le directeur artistique de la Baracke, installée face au Deutsches Theater, qui révolutionne le paysage théâtral berlinois en révélant de jeunes auteurs et en renouvelant les formes de représentation. En 1999, Thomas Ostermeier présente ses premiers spectacles au Festival d'Avignon : Homme pour homme de Bertolt Brecht, Sous la ceinture de Richard Dresser et Shopping and Fucking de Mark Ravenhill. La même année, il devient directeur artistique de la Schaubühne am Lehniner Platz et alterne, avec la troupe de fidèles comédiens réunis autour de lui, mises en scène du répertoire et travail sur de nouvelles œuvres. Qu'ils soient classiques ou contemporains, les textes choisis par Thomas Ostermeier ont une commune capacité à interroger «les conflits existentiels de l'individu comme les conflits politiques, économiques et sociaux de notre temps». Artiste associé au Festival d'Avignon en 2004, il fut aussi présent à de nombreuses reprises avec La Mort de Danton en 2001, Anéantis en 2005, Hamlet de Shakespeare dans la Cour d'honneur en 2008, puis en 2012, pour adapter Un ennemi du peuple de Henrik Ibsen.
+
+# RAINER WERNER FASSBINDER
+
+Né en 1945 et mort en 1982, Rainer Werner Fassbinder a réalisé de nombreux films, parfois adaptés de ses propres pièces de théâtre qu'il mettait en scène par ailleurs. Le Mariage de Maria Braun, tourné en 1978, est le premier volet de sa «Trilogie allemande», complétée par Lola, une femme allemande en 1981, puis par Le Secret de Veronika Voss qui obtient l'Ours d'or au festival de Berlin en 1982. L'œuvre de Fassbinder porte sur la République Fédérale d'Allemagne, ses mythes fondateurs, sa double morale et son héritage fasciste toujours en filigrane derrière le soi-disant «miracle économique allemand».
+
+# DIE EHE DER MARIA BRAUN
+
+Durant la Seconde Guerre mondiale, Maria et Hermann se marient dans une mairie en plein bombardement. Le lendemain, Hermann doit retourner au front. La guerre finie, Maria qui attend son retour reçoit la nouvelle de sa mort. Parallèlement à sa découverte des règles du marché noir, Maria Braun apprend celles du commerce amoureux. Serveuse dans un bar, elle entame une liaison avec Bill, un G.I. noir. Un soir quand ils rentrent ensemble, Hermann les attend. Dans la confusion qui s'ensuit, Maria frappe Bill qui en meurt. Endossant le crime, Hermann se laisse mener en prison. Après les grandes figures féminines des pièces d'Henrik Ibsen, Thomas Ostermeier trouve dans la Maria Braun de Fassbinder une autre victime des règles sociales et économiques. S'attachant au scénario plus qu'à une reconstitution du film, Thomas Ostermeier met l'accent sur la chute de l'idéal de Maria Braun face à des egos souvent proportionnels aux portefeuilles. Il souligne cette opposition par une distribution contrastée : entourée d'hommes, Maria Braun est isolée dans sa féminité et ses aspirations à un monde meilleur. Comme Fassbinder, Ostermeier décale l'histoire de cette jeune femme combative devenant une marchande endurcie et enrichie : loin du conte moral sur un type de femme, il s'agit du portrait d'une personnalité hors norme, pourtant fatalement déterminée par ce qui l'entoure.
+
+In this theatrical adaptation of the screenplay of the Rainer Werner Fassbinder film, Thomas Ostermeier takes on a love story forever delayed. Maria Braun believes herself to be in control of her emotional life which is, however, dictated by economic rules. A mistake for which she will end up paying a high price. Thomas Ostermeier paints the portrait of a woman adapting to the social and economic transitions of a new era.
+
+68e ÉDITION
+
+Tout le Festival sur festival-avignon.com
+#FDA14
+
+Pour vous présenter cette édition, plus de 1750 personnes, artistes, techniciens et équipes d'organisation ont uni leurs efforts, leur enthousiasme pendant plusieurs mois. Plus de la moitié relève du régime spécifique d'intermittent du spectacle. Ce carré rouge est le symbole de notre unité.
+
+© Alexandre Singh, image extraite de la série Assembly Instructions, The Pledge (Simon Fujiwara) 2012. Courtesy Sprüth Magers Berlin London; Art:Concept, Paris; Metro Pictures, New York; Monitor, Rome / Création graphique © STUDIO ALLEZ

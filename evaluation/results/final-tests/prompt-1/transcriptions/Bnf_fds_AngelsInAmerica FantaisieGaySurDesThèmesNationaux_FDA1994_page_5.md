@@ -1,0 +1,11 @@
+PAGE 5
+
+# Brigitte Jaques.
+
+Actrice avec Antoine Vitez, c'est comme ça qu'elle commence (La Mouette, La Parade, Le Précepteur, Vendredi ou la vie sauvage...).
+Elle réalise sa première mise en scène en 74 au Festival d'Automne en créant la version intégrale de L'Eveil du printemps de Wedekind, traduite par François Regnault. C'est avec lui qu'elle fonde la Compagnie Pandora.
+Tisser ensemble théâtre classique et théâtre contemporain, c'est cela qu'elle va faire. Et ce qu'elle enseignera à l'École de la rue Blanche, de 81 à 87.
+La Mort de Pompée, en 85, marque le début d'un grand projet Corneille (César y porte un revolver). Suivront, en 88 et 89, Sophonisbe, Horace, puis, en 92, La Mort de Pompée —une nouvelle fois— et Les Entretiens avec Pierre Corneille (élaborés avec Jacqueline Lichtenstein) où l'on voit François Regnault en robe de chambre jouer Pierre Corneille. Il y a enfin La Place royale, comédie reprise en 93. Benoît Jacquot la filme sur la scène, dans les décors.
+Quant aux modernes, en 86, elle conçoit et réalise Elvire Jouvet 40, d'après sept leçons de Louis Jouvet. Ce que Benoît Jacquot filme en noir et blanc et que Giorgio Strehler monte en italien à Milan. À l'Odéon, elle crée une pièce de Danièle Sallenave, Regarde, regarde de tous tes yeux. En 89, au Théâtre de la Ville, elle présente L'Imposture, le roman de Bernanos, adapté par P. Bonitzer et G. Wajcman. Philippe Clévenot y est un prêtre mal en point. Au Théâtre de l'Atelier, en 90, elle met en scène Partage de midi de Paul Claudel. Avec les acteurs de la Comédie-Française, l'année suivante, c'est La Nuit de l'Iguane de Tennessee Williams. En 93, elle crée une pièce anglaise de Nicholas Wright, Mme Klein, sur la célèbre psychanalyste. En mars dernier, un opéra : Le Jeu du Narcisse, livret de Gérard Wajcman, musique de Marc-Olivier Dupin et décor tout vert de Titina Maselli.
+Depuis 91, Brigitte Jaques dirige le Théâtre de la CommunePandora à Aubervilliers, avec François Regnault.
+Après Angels in America, elle mettra un nouveau Corneille en scène, Sertorius, avec Luis-Miguel Cintra, le grand acteur portugais. Il jouera le rôle de Sertorius, en français.

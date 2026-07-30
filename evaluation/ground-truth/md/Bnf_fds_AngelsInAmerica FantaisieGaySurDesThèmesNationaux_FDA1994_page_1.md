@@ -1,0 +1,12 @@
+# CLOÎTRE DES CARMES 10, 11, 12, 13, 15, 16, 17, 18 ET 19 JUILLET À 22 H
+
+# 94
+# FESTIVAL D'AVIGNON
+
+# ANGELS IN AMERICA de Tony Kushner
+
+# Mise en scène, Brigitte Jaques
+
+# Création
+
+# AVEC LA PARTICIPATION DU CRÉDIT LOCAL DE FRANCE

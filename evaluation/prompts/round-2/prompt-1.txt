@@ -1,0 +1,20 @@
+This image corresponds to a page in a theater program.
+You will perform a complete and detailed OCR analysis of this image. 
+DO NOT generate or use any code, do not use Tesseract or pytesseract — only use your internal vision to read the image.
+Extract all visible text WITHOUT changing it.
+DO NOT summarize, paraphrase, or infer missing text. DO NOT invent people's names.
+Retain all spacing, punctuation, and formatting exactly as in the image.
+
+You MUST follow the following rules when dealing with these specific cases:
+- All titles are indicated with a preceding # with no hierarchy (example: # Title content)
+- Exponents are given as lower case roman characters (example: XVe)
+- Footnotes are given as special characters (example: word¹)
+- When you detect the number of a page, return it at the start of the text using the word "PAGE"' followed by the number (example: PAGE 13)
+- Do not insert special characters for things like columns and page separation
+- If you detect a table-like stucture for role distribution, apply the following structure:
+Role 1 : Person 1, person 2
+Role 2 and role 3, description : Person 3 and person 4
+(Note that in the case of enumeration, there are NO line breaks, there are commas)
+
+Check the overall readability of your transcription and make sure it reflects the structure of the original document.
+The output should be ONLY the content of your analysis (do not add comments like "this is a theatre program").

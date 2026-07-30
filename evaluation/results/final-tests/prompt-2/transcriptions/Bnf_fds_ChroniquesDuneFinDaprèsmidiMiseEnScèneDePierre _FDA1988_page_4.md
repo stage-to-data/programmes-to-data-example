@@ -1,0 +1,1 @@
+The image appears to be a very light or faded page from a theater program. The text is too faint to reliably read any specific content. I cannot discern any clear text to transcribe from this image.

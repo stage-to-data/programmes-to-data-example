@@ -1,0 +1,12 @@
+# Le Lac des cygnes — Argument de l'acte II :
+Les cygnes ont conduit le Prince Siegfried dans une forêt lointaine, au bord d'un lac.
+Ils dansent alors une lente ronde. L'attention du jeune homme est attirée par un cygne blanc d'une merveilleuse beauté qui se métamorphose soudain en jeune fille. Celle-ci lui dévoile son nom : Odette, et le mystère du sortilège qui pèse sur elle et sur ses compagnes : Rothbarth, le mauvais génie, les a changées en cygnes, elles ne peuvent reprendre leur forme humaine que la nuit, auprès de ce lac.
+Touché par le triste récit d'Odette, le Prince se déclare prêt à tuer Rothbarth, mais la jeune fille lui répond que cela ne suffirait pas à rompre le sortilège. Seul l'amour à toute épreuve d'un jeune homme qui n'a encore jamais aimé aurait le pouvoir de la libérer. Séduit par sa beauté, le Prince lui jure une fidélité éternelle.
+Le jour se lève. Les jeunes filles vont devoir reprendre leur forme de cygnes. Le Prince est sûr de la force et de la constance de ses sentiments : il délivrera Odette de son mauvais génie.
+
+# La Nuit :
+Cinquante minutes peut-être, ou une seconde. Cinquante ans aussi, où il faudrait trouver un instant. Ne saurions-nous nous arrêter un moment dans le fleuve immobile et rapide ? Remontons et dévalons le temps, faisons s'entrechoquer les événements et les espaces pour enfin, peut-être, faire jaillir l'étincelle, un instant. Peut-être alors, avec le grand divin Marquis, sévère moraliste en sa retraite choisie, pourrons-nous nous écrier : « Français, encore un effort si vous voulez être républicains. » Instants où nos chants n'auraient plus l'odeur de la violette charogne puante. « Si toutes choses devenaient fumée, on connaîtrait par les narines », dit Héraclite ; ensemble, efforçons-nous de connaître avec des rythmes, des mouvements, des représentations de nos vies, qui divisent et réunissent un temps retrouvé. Du moins pourrons-nous avouer qu'en Avignon, cette Nuit, libre de toute appartenance, est, semblable à la crinière du lion, l'exquis superflu où peuvent venir s'inscrire nos esprits étonnés.
+R.C.
+
+# Carmen (suite) :
+Pour les artistes qui ont collaboré à ce ballet, le personnage de Carmen est désormais indissolublement lié à la musique de Bizet. Pourtant, c'est en 1846, un an après la publication de la nouvelle et vingt-neuf ans avant la première de l'opéra, qu'un premier ballet Carmen et le Toréador fut tiré de l'œuvre de Mérimée.Il est amusant de noter que le chorégraphe, alors jeune

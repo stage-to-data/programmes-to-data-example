@@ -1,0 +1,32 @@
+{
+    "content": {
+        "id": "msgbatch_01P4VUtRxpKg51WpGL3FJjB7",
+        "archived_at": null,
+        "cancel_initiated_at": null,
+        "created_at": "2025-05-09T14:22:05.146655Z",
+        "ended_at": null,
+        "expires_at": "2025-05-10T14:22:05.146655Z",
+        "processing_status": "in_progress",
+        "request_counts": {
+            "canceled": 0,
+            "errored": 0,
+            "expired": 0,
+            "processing": 1,
+            "succeeded": 0
+        },
+        "results_url": null,
+        "type": "message_batch"
+    },
+    "process_time": 0.8203973330091685,
+    "model": "claude_claude-3-7-sonnet-20250219",
+    "prompts": [
+        {
+            "id": "bced6344-d258-4608-81a3-8796a77bc79a",
+            "content": "This image corresponds to a page in a theater program.\nYou will perform a complete and detailed OCR analysis of this image. \nDO NOT generate or use any code, do not use Tesseract or pytesseract — only use your internal vision to read the image.\nExtract all visible text WITHOUT changing it.\nDO NOT summarize, paraphrase, or infer missing text. DO NOT invent people's names.\nRetain all spacing, punctuation, and formatting exactly as in the image.\n\nYou MUST follow the following rules when dealing with these specific cases:\n- All titles are indicated with a preceding # with no hierarchy (example: # Title content). If the title contains line breaks, recompose the title into one single line.\n- Exponents are given as lower case roman characters (example: XVe)\n- Footnotes are given as special characters (example: word¹)\n- When you detect the number of a page, return it at the start of the text using the word \"PAGE\"' followed by the number (example: PAGE 13)\n- Do not describe images or logos, simply extract any text within them.\n- Do not insert special characters for things like columns and page separation\n- For distribution: if you detect a table-like stucture, typography variation that could be interpreted as a function/name or name/function pairing, or a string of points linking a function and name, apply the following structure:\nElement 1 : Associated element 1, Associated element 2\nElement 2 and Element 3, description : Associated element 3 and Associated element 4\n(Note that in the case of enumeration, there are NO line breaks, there are commas)\n- If you detect any other function/name or name/function pairs that are separated by a character like | or /, chnage the character to a : (example: element 1 : associated element 1)\n- If you detect a completely empty page, or if the page is much too faint or blurry to confidently transcribe, simply return: [UNABLE TO TRANSCRIBE]\n- Some pages may include texts of different languages, or old languages (for example old French). It is very important to NOT CHANGE the content, simply trnscribe the letters you see.\n\nCheck the overall readability of your transcription and make sure it reflects the structure of the original document.\nThe output should be ONLY the trancribed content (DO NOT add comments like \"this is a theatre program\" or \"I was unable to reliably transcribe this\")."
+        }
+    ],
+    "uuid": "a83ed8c0-81b9-4e39-ad04-35062377eb5e",
+    "id_to_file": {
+        "bced6344-d258-4608-81a3-8796a77bc79a": "<corpus-show-prog-avignon>/sources/ground-truth/jpg_small/Bnf_fds_TheAlvinAileyCityCenterDanceTheater_FDA1974_page_5.jpg"
+    }
+}

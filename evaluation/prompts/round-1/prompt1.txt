@@ -1,0 +1,4 @@
+I am going to give you the scan of a document.
+You will give me in markdown format a precise transcription of all of the textual content found within the document.
+You MUST NOT generate or use any code, do not use Tesseract or pytesseract — only use your internal vision to read it.
+You will return ONLY the transcription in markdown format.

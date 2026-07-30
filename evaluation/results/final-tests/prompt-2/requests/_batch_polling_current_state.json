@@ -1,0 +1,8 @@
+{
+    "pairings": {
+        "<this repo>/scripts/output/_batch_tests/prompt-2/requests/2025-05-07-15-01_446ec1b3-2f2e-4764-bf63-352f76b3206f.json": true,
+        "<this repo>/scripts/output/_batch_tests/prompt-2/requests/2025-05-07-15-01_a3ea8a38-b3e6-4148-bc83-5e96bebbd3d2.json": true,
+        "<this repo>/scripts/output/_batch_tests/prompt-2/requests/2025-05-07-15-00_e88efe13-4e67-471c-bcb9-d975b4448f4b.json": true,
+        "<this repo>/scripts/output/_batch_tests/prompt-2/requests/2025-05-07-15-00_902112a9-9619-491e-9891-f390c9803f1a.json": true
+    }
+}

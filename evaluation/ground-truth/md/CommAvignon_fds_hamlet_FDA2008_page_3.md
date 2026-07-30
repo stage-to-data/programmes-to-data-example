@@ -1,0 +1,20 @@
+Est-ce une adaptation de la pièce que vous proposez avec Marius von Mayenburg ?
+
+Nous commençons par une nouvelle traduction et ensuite nous envisagerons les coupes pour concentrer l'action sur les problématiques dont nous venons de parler. Notre adaptation consistera aussi à jouer la pièce avec seulement six acteurs, toujours présents sur scène, qui échangeront les rôles pour souligner le fait que Hamlet devient de plus en plus fou, ne reconnaissant plus vraiment les personnes de son entourage, se demandant sans cesse où est la vérité des discours qu'il entend. Nous voudrions que Gertrude et Ophélie soient jouées par la même comédienne parce que Hamlet est devenu tellement fou quand il se trouve confronté à ces deux femmes qu'il peut très bien les confondre en un seul personnage, sans bien savoir qui est qui... Mais tout cela pose la question essentielle de comment jouer la folie ? Comment réagir à la question du jeu puisque tous les personnages sont masqués, puisque tout le monde joue à un moment ou à un autre un rôle. Où est la vérité ? A-t-elle disparu définitivement ?
+
+Comment considérez-vous Polonius, ce personnage souvent sacrifié dans les adaptations ?
+
+Ce qui est étrange, c'est que Polonius était un des conseillers du roi Hamlet et que normalement il devrait disparaître puisqu'il peut être un ennemi de la nouvelle cour. Dans l'ancienne cour, Polonius aurait pu devenir le père de la nouvelle reine si Ophélie avait épousé Hamlet, le prince héritier. La situation s'étant retournée, il est donc dans une situation ambiguë car, si l'histoire d'amour continue, il peut se retrouver dans une position défavorable. Ici le politique intervient dans la sphère privée et détruit cette relation amoureuse. Polonius est un homme politique et non pas un vieux débile, un homme de pouvoir qui se situe aussi dans la stratégie et donc dans le mensonge. Si Polonius est un personnage comique, c'est uniquement parce qu'il utilise le comique dans un but politique.
+
+À son retour d'exil, Hamlet est-il encore dans le monde de la folie ?
+
+Il va sans doute moins mal qu'à son départ mais, étrangement, on a l'impression qu'il a oublié ce qui s'était passé avant. Sa discussion avec les fossoyeurs est quand même bizarre pour un exilé menacé de mort qui revient pour reprendre le pouvoir, il discute sur la brièveté de la vie, il est encore plus impuissant qu'avant. On peut expliquer cette inactivité patente et cette passivité étrange par deux raisons opposées : soit il est redevenu très sensé, soit il est totalement abruti comme s'il avait pris des sédatifs dans une clinique psychiatrique...
+
+Politiquement, comment interprétez-vous le rôle de Fortinbras, le prince étranger qui va prendre le pouvoir à la mort de Claudius, de Gertrude et d'Hamlet ?
+
+Dans les années 90, Heiner Müller avait fait de Fortinbras, dans sa mise en scène d'Hamlet au Deutsches Theater, le champion du capitalisme extrême. Aujourd'hui nous ne sommes plus dans cette période où il y avait une opposition entre des programmes politiques ou économiques vraiment différents. Je ne suis pas sûr qu'il y ait eu une grosse différence entre Margaret Thatcher et Tony Blair. Quand on regarde les tragédies historiques de Shakespeare, nées de la guerre des Roses, chaque changement de roi se fait dans une grande violence mais rien ne change profondément,
+tout se reproduit à l'identique. Je pense que l'on est un peu dans ce monde-là avec Fortinbras. Il représente un impérialisme nouveau mais qui ne changera pas grand-chose dans le royaume du Danemark qui s'était déjà engagé, à l'époque du roi Hamlet, dans la conquête de la Norvège. Un impérialisme en remplacera un autre en fonction de la force ou de la faiblesse des protagonistes.
+
+Sarah Kane disait que dans ses œuvres il y avait toujours un peu de Shakespeare. N'en est-il pas de même dans toutes vos mises en scène qui ne reculent pas devant une certaine violence épique très shakespearienne ?
+
+On pourrait aussi dire qu'il y a toujours du Sarah Kane dans mes mises en scène... Étrangement la violence shakespearienne semble moins émouvoir le public que la violence de certaines pièces

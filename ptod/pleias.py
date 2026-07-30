@@ -3,7 +3,9 @@ import json
 from .utils import write_json, collect_files, read_txt
 from vllm import LLM, SamplingParams
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+# NB: CUDA_VISIBLE_DEVICES is deliberately *not* set here. Pinning it at import
+# time silently overrides whatever the user configured in their environment or
+# job scheduler. Set it before launching python, or pass device= to PleiasModel.
 
 PLEIAS_SYSTEM_PROMPT = "You annotate French theater programmes from the Festival d'Avignon against the Linked Art performing-arts ontology. Extract structured JSON-LD entities from programme markdown."
 
@@ -26,7 +28,8 @@ class PleiasModel:
         self.system_prompt = PLEIAS_SYSTEM_PROMPT
         self.entity_instructions = PLEIAS_ENTITY_INSTRUCTIONS
         self.max_tokens = kwargs.get("max_tokens", 2048)
-        self.device = kwargs.get("device", "cpu")
+        # vLLM's standard wheels are CUDA builds; "cpu" requires a source build.
+        self.device = kwargs.get("device", "cuda")
 
         self._load_model()
 
@@ -86,14 +89,27 @@ class PleiasModel:
             pass
         return {"reasoning": reasoning, "output": jsonld_str, "valid_json": valid}
     
-    def write_result(self, result, path):
+    def write_result(self, result, path, with_reasoning = False):
+        """Write the parsed JSON-LD per entity type.
+
+        Args:
+            result: the dict returned by :meth:`annotate`.
+            path: destination .json path.
+            with_reasoning: if True, also write the model's raw reasoning and
+                output next to the parsed result, at ``*-raw.json``.
+        """
         export = {}
         for et, r in result.items():
             if r['valid_json']:
                 export[et] = json.loads(r['output'])
             else:
                 export[et] = {"_error": "invalid JSON", "_raw": r['output'][:500]}
-        write_json(path, result)
+
+        write_json(path, export)
+
+        if with_reasoning:
+            base, ext = os.path.splitext(path)
+            write_json(f"{base}-raw{ext}", result)
 
 def extract_data(pleias_model, pdf_file, output_folder):
     source_folder = os.path.join(output_folder, "text", os.path.splitext(os.path.basename(pdf_file))[0], "transcription")

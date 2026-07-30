@@ -1,0 +1,12 @@
+# Dependencies for evaluation.ipynb
+#
+# The ptod package (this repository) provides the file helpers:
+#   pip install -e ..
+#
+# The spaCy multilingual model must be fetched separately:
+#   python -m spacy download xx_ent_wiki_sm
+
+python-Levenshtein>=0.25
+jiwer>=3.0
+spacy>=3.7
+matplotlib>=3.7
