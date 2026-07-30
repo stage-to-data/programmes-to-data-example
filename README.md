@@ -71,9 +71,7 @@ See [`evaluation/README.md`](evaluation/README.md) for the method and the full r
 including awkward cases: upside-down text, poor scans, born-digital as well as digitised documents.
 Each page is annotated in markdown, distinguishing only titles from non-title text.
 
-It is mirrored in `evaluation/ground-truth/md/` from
-[corpus-show-prog-avignon](https://github.com/stage-to-data/corpus-show-prog-avignon), which remains
-the upstream source. **The programme scans and PDFs behind the transcriptions are not redistributed** —
+The programme scans and PDFs behind the transcriptions are not redistributed —
 the transcriptions are, the source documents are not.
 
 The ground truth is revised over time and **runs scored against different states of it are not
@@ -116,7 +114,6 @@ authoritative metrics table.
 
 ## Related
 
-- [corpus-show-prog-avignon](https://github.com/stage-to-data/corpus-show-prog-avignon) — the corpus, upstream
 - [llm-wrap](https://github.com/stage-to-data/llm-wrap) — the LLM/VLM wrapper used here
 - [linked-art-pa](https://github.com/stage-to-data/linked-art-pa) — the Linked Art extension for the performing arts
 
