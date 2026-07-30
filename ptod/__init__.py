@@ -6,7 +6,8 @@ The pipeline has three stages, with increasingly heavy dependencies:
 
 1. ``pdf_to_img`` / ``preprocess_images`` — PDF to preprocessed images (pymupdf, pillow, opencv).
 2. ``transcribe`` — images to markdown with a VLM (adds llmwrap).
-3. ``PleiasModel`` / ``extract_data`` — markdown to Linked Art JSON-LD (adds vllm, needs a GPU).
+3. ``PleiasModel`` / ``extract_data`` — markdown to Linked Art JSON-LD (adds vllm, needs a GPU),
+   or ``extract_data_claude`` for the same stage through a hosted Claude model (adds llmwrap only).
 
 Stages 2 and 3 are imported lazily so that stage 1, and the file helpers in
 ``ptod.utils``, remain usable without installing the heavy optional
@@ -27,10 +28,12 @@ __all__ = [
     "transcribe",
     "PleiasModel",
     "extract_data",
+    "extract_data_claude",
 ]
 
 _LAZY = {
     "transcribe": (".transcription", "llmwrap", "pip install ptod[transcription]"),
+    "extract_data_claude": (".data_extraction", "llmwrap", "pip install ptod[transcription]"),
     "PleiasModel": (".pleias", "vllm", "pip install ptod[extraction]"),
     "extract_data": (".pleias", "vllm", "pip install ptod[extraction]"),
 }

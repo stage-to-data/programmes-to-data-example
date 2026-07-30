@@ -38,9 +38,12 @@ pass `model="claude"` or `model="openai"` with an `api_key` for a hosted model.
 ptod/                    the pipeline package
   preprocessing.py         stage 1
   transcription.py         stage 2
-  prompts.py               the transcription prompt (= prompt 4)
-  pleias.py                stage 3
-  lapa_extraction_prompt.md   the nine LA-PA models, 58 output columns, serialisation rules
+  prompts.py               the transcription prompt (= prompt 4); the extraction
+                             prompts are built from the specification below
+  pleias.py                stage 3, POntAvignon models (needs a GPU)
+  data_extraction.py       stage 3, hosted Claude model
+  lapa_extraction_prompt.md   the extraction specification: nine LA-PA models,
+                             58 output columns, serialisation rules
   utils.py                 file helpers
 
 Hamlet_example/          end-to-end demo on one programme
